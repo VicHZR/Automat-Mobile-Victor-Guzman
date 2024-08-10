@@ -1,1 +1,2 @@
-# Automat-Mobile-Victor-Guzman
+# QAInnovationLab
+Automation Team / For education purpose
